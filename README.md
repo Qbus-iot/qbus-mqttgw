@@ -1,6 +1,9 @@
 # qbus-mqttgw
 
 This is the repository for the Qbus Mqtt Gateway application. With this application you can communicate with all Qbus CTD controller over an MQTT server.
+More information can be found here: https://iot.qbus.be/
+
+If you prefer to use a docker image, then you can use this one https://github.com/thomasddn/qbusmqtt 
 
 # How to use
 The software requires a few dependecies. 
