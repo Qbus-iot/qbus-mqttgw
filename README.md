@@ -9,7 +9,7 @@ If you prefer to use a docker image, then you can use this one https://github.co
 The software requires a few dependecies. 
 sudo apt-get install -y tftp unzip
 
-If you don't have a MQTT server, we recommand using Mosquitto: sudo apt-get install -y mosquitto
+If you don't have a MQTT server, we recommand using Mosquitto.
 
 ### Setting up Qbus MQTT client
 First we need to unzip the tar files (this example uses the arm version, if you are installing on a Linux machine, use the correct version - arm / x86 / x64):
